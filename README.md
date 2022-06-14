@@ -1,4 +1,4 @@
 # intellectfox
 # instagramm model
-https://lemeshik.github.io/intellectfox/intellectfox
+https://github.com/lemeshik/intellectfox.git
 
